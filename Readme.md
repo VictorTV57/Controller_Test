@@ -63,12 +63,12 @@ Controller Status:
 Connected - 13 buttons
 ID of button(s) pressed : 
 Arrows : PovX=0, PovY=0
-Left joystick : X=1.6, Y=-0.8, L3=0
+Left joystick : X=0.0, Y=0.0, L3=0
 Central Buttons : Share=0, PS=0, Pause=0
-Right joystick : X=0.8, Y=1.6, R3=0
+Right joystick : X=0.0, Y=0.0, R3=0
 Buttons : A=0, B=0, Y=0, X=0
 Triggers Up : L1=0, R1=0
-Triggers Down : L2=-100.0, R2=-100.0
+Triggers Down : L2=0.0, R2=0.0
 
 Press CTRL+C to quit (Quitforce handler engaged).  
 ```
@@ -77,15 +77,15 @@ Press CTRL+C to quit (Quitforce handler engaged).
 
 | Function             | PlayStation           | Xbox                  | Button ID |
 |----------------------|-----------------------|-----------------------|-----------|
-| Cross / A            | ❌ Cross              | 🅰️ A                  | 0         |
-| Circle / B           | ⭕ Circle             | 🅱️ B                  | 1         |
-| Triangle / Y         | 🔺 Triangle           | 🔼 Y                  | 2         |
-| Square / X           | 🟥 Square             | ❎ X                  | 3         |
+| Cross / A            | ❌ Cross              | 🇦 A                  | 0         |
+| Circle / B           | ⭕ Circle             | 🇧 B                  | 1         |
+| Triangle / Y         | 🔺 Triangle           | 🇾 Y                  | 2         |
+| Square / X           | 🟥 Square             | 🇽 X                  | 3         |
 | L1 / LB              | L1                    | LB                    | 4         |
 | R1 / RB              | R1                    | RB                    | 5         |
 | Share / View         | Share                 | View                  | 8         |
 | Options / Menu       | Options               | Menu                  | 9         |
-| PS / Xbox            | PS                    | Xbox                  | 10        |
+| PS / Xbox            | PlayStation logo      | Xbox logo             | 10        |
 | Left Stick Press     | L3                    | LS                    | 11        |
 | Right Stick Press    | R3                    | RS                    | 12        |
 
